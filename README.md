@@ -34,3 +34,8 @@ AIO useful extensions, links and more :)
 | [MoQ](https://github.com/moq/moq)                                                     | The most popular and friendly mocking framework for .NET                   |
 | [Snoop](https://github.com/snoopwpf/snoopwpf)                                         | WPF spying utility                                                         |
 | [Obfuscar](https://github.com/obfuscar/obfuscar)                                      | OS obfuscator                                                              |
+
+## Interesting projects
+| Link                                              | Description                                       |
+| ------------------------------------------------- | ------------------------------------------------- |
+| [OpenStreetMap](https://www.openstreetmap.org/)   | Free world map                                    |
