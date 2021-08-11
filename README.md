@@ -12,5 +12,6 @@ AIO useful extensions, links and more :)
 | [SourceDotNet](https://source.dot.net/)           | Useful to find class by only remembering its name |
 | [SharpLab](https://sharplab.io/)                  | See actual compiled code                          |
 | [DotNetFiddle](https://dotnetfiddle.net)          | c# online compiler                                |
+| [GitInfo](https://github.com/devlooped/GitInfo)   | Access Git from code
 | [Resharper](https://www.jetbrains.com/resharper/) | Code analyzer                                     |
 | [NCrunch](https://www.ncrunch.net/)               | The Ultimate Live Testing Tool                    |
