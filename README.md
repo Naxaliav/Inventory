@@ -30,3 +30,5 @@ AIO useful extensions, links and more :)
 | [Avalonia](https://github.com/AvaloniaUI/Avalonia)                                    | Cross platform WPF development                                             |
 | [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) | This library helps write code in more functional way                       |
 | [RebexTinySftpServer](https://github.com/rebexnet/RebexTinySftpServer)                | Useful to quickly test communication to sftp server                        |
+| [Snoop](https://github.com/snoopwpf/snoopwpf)                                         | WPF spying utility                                                         |
+| [Obfuscar](https://github.com/obfuscar/obfuscar)                                      | OS obfuscator
