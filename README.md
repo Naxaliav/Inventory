@@ -17,8 +17,8 @@ AIO useful extensions, links and more :)
 | [NCrunch](https://www.ncrunch.net/)               | The Ultimate Live Testing Tool                    |
 
 ## Top-notch .nuget packages
-| .nuget package                                      | Description                     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| .nuget package                                                                        | Description                                                                |
+| --------------------------------------------------------------------------------------|----------------------------------------------------------------------------| 
 | [GitInfo](https://github.com/devlooped/GitInfo)                                       | Access Git by code                                                         |
 | [Html Agility Pack](https://html-agility-pack.net/)                                   | Html parser                                                                |
 | [Selenium](https://github.com/SeleniumHQ/selenium)                                    | Browser automation                                                         |
@@ -29,3 +29,4 @@ AIO useful extensions, links and more :)
 | [Nuke](https://github.com/nuke-build/nuke)                                            | Build automation system                                                    |
 | [Avalonia](https://github.com/AvaloniaUI/Avalonia)                                    | Cross platform WPF development                                             |
 | [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) | This library helps write code in more functional way                       |
+| [RebexTinySftpServer](https://github.com/rebexnet/RebexTinySftpServer)                | Useful to quickly test communication to sftp server                        |
