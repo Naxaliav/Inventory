@@ -26,7 +26,7 @@ AIO useful extensions, links and more :)
 | [Fody/PropertyChanged](https://github.com/Fody/PropertyChanged)                       | Injects code which raises the PropertyChanged event                        |
 | [Audit.NET](https://github.com/thepirat000/Audit.NET)                                 | Audit implementation when SQL temporal tables are not a way to go          |
 | [Nuke](https://github.com/nuke-build/nuke)                                            | Build automation system                                                    |
-| [Avalonia](https://github.com/AvaloniaUI/Avalonia)                                    | Cross platform WPF development                                             |
+| [Avalonia](https://github.com/AvaloniaUI/Avalonia)                                    | Cross-platform XAML-based UI framework                                     |
 | [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) | This library helps write code in more functional way                       |
 | [RebexTinySftpServer](https://github.com/rebexnet/RebexTinySftpServer)                | Useful to quickly test communication to sftp server                        |
 | [NSwag](https://github.com/RicoSuter/NSwag)                                           | Generates C# clients from an OpenAPI specification                         |
