@@ -39,3 +39,9 @@ AIO useful extensions, links and more :)
 | Link                                              | Description                                       |
 | ------------------------------------------------- | ------------------------------------------------- |
 | [OpenStreetMap](https://www.openstreetmap.org/)   | Free world map                                    |
+
+## Worth subscription
+| Link                                                              | Description                                       |
+| ------------------------------------------------------------------| ------------------------------------------------- |
+| [EnterpriseCraftsmanship](https://enterprisecraftsmanship.com/)   | Courses/samples/best-practices                    |
+| [CSharpDigest](https://csharpdigest.net/)                         | Weekly news for busy techies in .NET and C#       |
