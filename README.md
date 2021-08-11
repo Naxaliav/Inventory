@@ -29,5 +29,8 @@ AIO useful extensions, links and more :)
 | [Avalonia](https://github.com/AvaloniaUI/Avalonia)                                    | Cross platform WPF development                                             |
 | [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) | This library helps write code in more functional way                       |
 | [RebexTinySftpServer](https://github.com/rebexnet/RebexTinySftpServer)                | Useful to quickly test communication to sftp server                        |
+| [NSwag](https://github.com/RicoSuter/NSwag)                                           | Generates C# clients from an OpenAPI specification                         |
+| [FluentAssertions](https://github.com/fluentassertions/fluentassertions)              | Describe unit tests expected outcome in a natural way                      |
+| [MoQ](https://github.com/moq/moq)                                                     | The most popular and friendly mocking framework for .NET                   |
 | [Snoop](https://github.com/snoopwpf/snoopwpf)                                         | WPF spying utility                                                         |
-| [Obfuscar](https://github.com/obfuscar/obfuscar)                                      | OS obfuscator
+| [Obfuscar](https://github.com/obfuscar/obfuscar)                                      | OS obfuscator                                                              |
